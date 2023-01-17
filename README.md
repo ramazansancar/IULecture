@@ -37,16 +37,12 @@ Issue açarak veya `ramazansancar@ogr.iu.edu.tr` adresine `@ogr.iu.edu.tr` veya 
 
 ### Ders Muafiyet Başvurusu
 - Başvuru yapmak için,
-    • https://aksis.istanbul.edu.tr/ adresine girin.
+    - https://aksis.istanbul.edu.tr/ adresine girin.   
+    - "Açık Öğretim Öğrenme Yönetim Sistemi" butonuna basın. (https://aos.istanbul.edu.tr/ sizi buraya yönlendirecektir.)
+    - Sol menüden "Başvurularım" > "Ders Muafiyet Başvuruları" kısmına tıklayın. (https://aos.istanbul.edu.tr/basvuru-islemleri/ders-muafiyet-talep/muafiyet-talep-listesi sizi buraya yönlendirecektir.)
+    - Sağ üstte yer alan "+ Yeni Muafiyet Başvurusu" butonuna basın. (https://aos.istanbul.edu.tr/basvuru-islemleri/ders-muafiyet-talep/yeni-basvuru sizi buraya yönlendirecektir.)
+    - Dersleri seçin. Alt kısımda dosya yükleme kısmına Yök 'den veya okuldan aldığınız [Transkript PDF](https://www.turkiye.gov.tr/yuksekogretim-kurulu-transkript-belgesi-sorgulama) 'ini yükleyin. (Bağlantısı mesaj sonundadır.)
     
-    • "Açık Öğretim Öğrenme Yönetim Sistemi" butonuna basın. (https://aos.istanbul.edu.tr/ sizi buraya yönlendirecektir.)
-    
-    • Sol menüden "Başvurularım" > "Ders Muafiyet Başvuruları" kısmına tıklayın. (https://aos.istanbul.edu.tr/basvuru-islemleri/ders-muafiyet-talep/muafiyet-talep-listesi sizi buraya yönlendirecektir.)
-    
-    • Sağ üstte yer alan "+ Yeni Muafiyet Başvurusu" butonuna basın. (https://aos.istanbul.edu.tr/basvuru-islemleri/ders-muafiyet-talep/yeni-basvuru sizi buraya yönlendirecektir.)
-    
-    • Dersleri seçin. Alt kısımda dosya yükleme kısmına Yök 'den veya okuldan aldığınız [Transkript PDF](https://www.turkiye.gov.tr/yuksekogretim-kurulu-transkript-belgesi-sorgulama) 'ini yükleyin. (Bağlantısı mesaj sonundadır.)
-
 ## Sorularınız için:
 - Issue açabilirsiniz.
 
