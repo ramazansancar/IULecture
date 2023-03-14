@@ -7,7 +7,8 @@ Bu repo İstanbul Üniversitesi AUZEF (Açık ve Uzaktan Eğitim Fakültesi) Bil
 - Ders Notları: https://cmcylns.notion.site/cmcylns/AUZEF-IU-83d497dae5964314ac8a79e4caffc273 (Kısa Bağlantı: https://iuauzef.super.site/)
 - Telegram: https://t.me/IstanbulBilgisayarProgramciligi
 - Linkedin: https://www.linkedin.com/groups/9236487/
-- Ders Müfredatı: [https://ebs.istanbul.edu.tr/home/dersprogram/?id=21532&birim=bilgisayar_programciligi__onlisans_programi__(acikogretim)&yil=2022](EBS IU)
+- Ders Müfredatı (Bilgisayar Programcılığı): https://ebs.istanbul.edu.tr/home/dersprogram/?id=21532&birim=bilgisayar_programciligi__onlisans_programi__(acikogretim)&yil=2022
+- Ders Müfredatı (Grafik Tasarım): https://ebs.istanbul.edu.tr/home/dersprogram/?id=16721&birim=grafik_tasarimi__onlisans_programi__(acikogretim)&yil=2022
 
 #### Ortak Bölgesel WP Grupları
 Issue açarak veya `ramazansancar@ogr.iu.edu.tr` adresine `@ogr.iu.edu.tr` veya `@istanbul.edu.tr` uzantılı mail adresiniz ile mesaj göndererek talep edebilirsiniz.
