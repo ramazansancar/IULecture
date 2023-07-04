@@ -48,6 +48,13 @@ Issue açarak veya `ramazansancar@ogr.iu.edu.tr` adresine `@ogr.iu.edu.tr` veya 
 ## Sorularınız için:
 - Issue açabilirsiniz.
 
+
+## Katkı Sağlayanlar
+
+<a href="https://github.com/ramazansancar/IULecture/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ramazansancar/IULecture" />
+</a>
+
 #### Yasal Bilgilendirme
 
 ** Bilgilendirme: Bu Repo içerisinde yer alan tüm kaynaklar ve dokümanlar İstanbul Üniversitesi AUZEF tarafından yayınlanmış veya ilgili kaynaklardan temin edilerek bir araya getirilmiştir.
